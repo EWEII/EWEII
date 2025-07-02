@@ -97,13 +97,12 @@ mindmap
 ---
 -->
 
-## 📈 Coding Activity
+# 📈 Coding Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EWEII&custom_title=EWEII's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=c3e88d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
----
 
 <!--## 🌟 Fun Facts & Interests
 
@@ -117,9 +116,8 @@ mindmap
 </div>
 -->
 
----
 
-## 🤝 Let's Connect!
+<!--## 🤝 Let's Connect!
 
 <div align="center">
   <a href="mailto:your.email@example.com">
@@ -132,11 +130,15 @@ mindmap
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </div>
+-->
+
 
 ---
 
 <div align="center">
+  <!--
   <img src="https://komarev.com/ghpvc/?username=EWEII&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+  -->
   
   **✨ "Code is like humor. When you have to explain it, it's bad." - Cory House ✨**
   
